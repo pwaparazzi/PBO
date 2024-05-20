@@ -20,7 +20,7 @@ public class main {
                 "Jl. Ramah No.12, Pondok Rajeg", 
                 "088192028402", 
                 "fairuzabrarr@gmail.com", 
-                Student.Senior);
+                Student.Maru1);
         Date dateHired = new Date(2024, 04, 27);
         Employee employee = new Employee(
                 "Iqbal Hafidz", 
